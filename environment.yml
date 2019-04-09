@@ -2,6 +2,7 @@ name: socialsent
 channels:
 - defaults
 dependencies:
+- python=2.7.13=0
 - cycler=0.10.0=py27_0
 - freetype=2.5.5=2
 - funcsigs=1.0.2=py27_0

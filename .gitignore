@@ -143,3 +143,5 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+data

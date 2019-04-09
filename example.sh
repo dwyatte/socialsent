@@ -2,6 +2,7 @@
 
 # This script downloads and runs SentProp with 100 dimensional glove
 # embeddings on only positive/negative words in the inquirer corpus
+mkdir data
 cd data
 mkdir example_embeddings
 cd example_embeddings
